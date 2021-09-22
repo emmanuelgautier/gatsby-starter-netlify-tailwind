@@ -1,4 +1,4 @@
-const siteUrl = 'https://www.data-show.com/'
+const siteUrl = 'https://gatsby-starter-netlify-tailwind.netlify.app/'
 const title = 'Gatsby Starter Netlify Tailwind'
 const description =
   'This repo contains an example blog website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.'
@@ -169,7 +169,7 @@ module.exports = {
               }
             `,
             output: '/rss.xml',
-            title: 'Data Show RSS Feed',
+            title: 'Blog RSS Feed',
           },
         ],
       },

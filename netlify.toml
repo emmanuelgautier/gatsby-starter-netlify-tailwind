@@ -1,30 +1,9 @@
 [build]
   publish = "public"
-  command = "yarn run build"
+  command = "npm run build"
 
 [[plugins]]
   package = "netlify-plugin-gatsby-cache"
 
 [[plugins]]
   package = "@netlify/plugin-lighthouse"
-
-[[plugins]]
-  package = "netlify-purge-cloudflare-on-deploy"
-
-[[plugins]]
-  package = "netlify-plugin-submit-sitemap"
-
-	[plugins.inputs]
-
-	# The base url of your site (optional, default = main URL set in Netlify)
-	baseUrl = "https://www.data-show.com"
-
-	# Path to the sitemap URL (optional, default = /sitemap.xml)
-	sitemapPath = "/sitemap.xml"
-
-	# Enabled providers to submit sitemap to (optional, default = 'google', 'bing', 'yandex'). Possible providers are currently only 'google', 'bing', 'yandex'.
-	providers = [
-		"google",
-		"bing",
-		"yandex"
-	]
