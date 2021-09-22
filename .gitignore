@@ -58,6 +58,9 @@ typings/
 .cache/
 public
 
+# netlify file
+static/admin/*.bundle.*
+
 # Mac files
 .DS_Store
 
