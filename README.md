@@ -1,12 +1,10 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby's default starter
-</h1>
+# Gatsby + Netlify CMS + TailwindCSS Starter
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/29af1cba-0760-4262-ac11-220aea157319/deploy-status)](https://app.netlify.com/sites/gatsby-starter-netlify-tailwind/deploys)
+
+This repo contains an example business website that is built with [Gatsby](https://www.gatsbyjs.org/), [Netlify CMS](https://www.netlifycms.org) and [TailwindCSS](https://tailwindcss.com/): **[Demo Link](https://gatsby-starter-netlify-tailwind.netlify.app/)**.
+
+It follows the [JAMstack architecture](https://jamstack.org) by using Git as a single source of truth, and [Netlify](https://www.netlify.com) for continuous deployment, and CDN distribution.
 
 Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
@@ -101,8 +99,6 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [Build, Deploy, and Host On The Only Cloud Built For Gatsby](https://www.gatsbyjs.com/products/cloud/)
 
 Gatsby Cloud is an end-to-end cloud platform specifically built for the Gatsby framework that combines a modern developer experience with an optimized, global edge network.
-
-<!-- AUTO-GENERATED-CONTENT:END -->
 
 ## Maintainers
 
