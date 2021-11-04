@@ -1,8 +1,7 @@
 {
   "name": "gatsby-starter-netlify-tailwind",
-  "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
-  "version": "0.1.0",
+  "description": "A Gatsby + Netlify CMS + TailwindCSS Starter",
+  "version": "1.0.0",
   "author": "Emmanuel Gautier <npm@emmanuelgautier.fr>",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "1.2.36",
@@ -50,7 +49,12 @@
     "prettier": "2.3.2"
   },
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "gatsby-starter",
+    "gatsby-theme",
+    "tailwindcss",
+    "netlify",
+    "starter"
   ],
   "license": "MIT",
   "scripts": {
