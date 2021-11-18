@@ -93,13 +93,6 @@ module.exports = {
       },
     },
     {
-      resolve: 'gatsby-plugin-purgecss',
-      options: {
-        develop: true,
-        tailwind: true,
-      },
-    },
-    {
       resolve: 'gatsby-plugin-next-seo',
       options: {
         title,
