@@ -24,7 +24,7 @@ jobs:
           cache-dependency-path: "**/package-lock.json"
 
       - name: Install dependencies 👨🏻‍💻
-        run: yarn --frozen-lockfile --silent
+        run: npm ci
 
       - name: Run tests 🧪
-        run: yarn test
+        run: npm run test
