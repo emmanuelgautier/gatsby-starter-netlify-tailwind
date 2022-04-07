@@ -2,6 +2,8 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/29af1cba-0760-4262-ac11-220aea157319/deploy-status)](https://app.netlify.com/sites/gatsby-starter-netlify-tailwind/deploys)
 
+![Demo Screenshot!](./static/screenshot.png "Demo Screenshot")
+
 This repo contains an example business website that is built with [Gatsby](https://www.gatsbyjs.org/), [Netlify CMS](https://www.netlifycms.org) and [TailwindCSS](https://tailwindcss.com/): **[Demo Link](https://gatsby-starter-netlify-tailwind.netlify.app/)**.
 
 It follows the [JAMstack architecture](https://jamstack.org) by using Git as a single source of truth, and [Netlify](https://www.netlify.com) for continuous deployment, and CDN distribution.
