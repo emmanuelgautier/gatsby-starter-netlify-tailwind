@@ -11,7 +11,7 @@
     "@tailwindcss/typography": "0.5.7",
     "autoprefixer": "10.4.12",
     "fontsource-open-sans": "4.0.0",
-    "gatsby": "4.24.3",
+    "gatsby": "4.24.4",
     "gatsby-plugin-catch-links": "4.24.0",
     "gatsby-plugin-feed": "4.24.0",
     "gatsby-plugin-google-gtag": "4.24.0",
@@ -33,7 +33,7 @@
     "gatsby-transformer-remark": "5.24.0",
     "gatsby-transformer-sharp": "4.24.0",
     "netlify-cms-app": "2.15.72",
-    "postcss": "8.4.17",
+    "postcss": "8.4.18",
     "prop-types": "15.8.1",
     "react": "17.0.2",
     "react-dom": "17.0.2",
@@ -44,7 +44,7 @@
   "devDependencies": {
     "@emmanuelgautier/renovate-config": "1.5.0",
     "@netlify/plugin-gatsby": "3.4.8",
-    "@netlify/plugin-lighthouse": "4.0.0",
+    "@netlify/plugin-lighthouse": "4.0.1",
     "prettier": "2.7.1"
   },
   "keywords": [
