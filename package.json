@@ -9,9 +9,9 @@
     "@fortawesome/free-solid-svg-icons": "6.2.0",
     "@fortawesome/react-fontawesome": "0.2.0",
     "@tailwindcss/typography": "0.5.7",
-    "autoprefixer": "10.4.12",
+    "autoprefixer": "10.4.13",
     "fontsource-open-sans": "4.0.0",
-    "gatsby": "4.24.4",
+    "gatsby": "4.24.5",
     "gatsby-plugin-catch-links": "4.24.0",
     "gatsby-plugin-feed": "4.24.0",
     "gatsby-plugin-google-gtag": "4.24.0",
@@ -44,7 +44,7 @@
   "devDependencies": {
     "@emmanuelgautier/renovate-config": "1.5.0",
     "@netlify/plugin-gatsby": "3.4.8",
-    "@netlify/plugin-lighthouse": "4.0.1",
+    "@netlify/plugin-lighthouse": "4.0.2",
     "prettier": "2.7.1"
   },
   "keywords": [
