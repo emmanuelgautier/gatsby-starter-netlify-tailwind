@@ -4,9 +4,9 @@
   "version": "1.1.0",
   "author": "Emmanuel Gautier <npm@emmanuelgautier.fr>",
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "6.2.0",
-    "@fortawesome/free-brands-svg-icons": "6.2.0",
-    "@fortawesome/free-solid-svg-icons": "6.2.0",
+    "@fortawesome/fontawesome-svg-core": "6.2.1",
+    "@fortawesome/free-brands-svg-icons": "6.2.1",
+    "@fortawesome/free-solid-svg-icons": "6.2.1",
     "@fortawesome/react-fontawesome": "0.2.0",
     "@tailwindcss/typography": "0.5.8",
     "autoprefixer": "10.4.13",
@@ -44,7 +44,7 @@
   "devDependencies": {
     "@emmanuelgautier/renovate-config": "1.5.0",
     "@netlify/plugin-gatsby": "3.4.8",
-    "@netlify/plugin-lighthouse": "4.0.2",
+    "@netlify/plugin-lighthouse": "4.0.3",
     "prettier": "2.7.1"
   },
   "keywords": [
