@@ -44,7 +44,7 @@
   "devDependencies": {
     "@emmanuelgautier/renovate-config": "1.5.1",
     "@netlify/plugin-gatsby": "3.4.8",
-    "@netlify/plugin-lighthouse": "4.0.3",
+    "@netlify/plugin-lighthouse": "5.0.0",
     "prettier": "3.0.0"
   },
   "keywords": [
